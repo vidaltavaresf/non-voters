@@ -5,6 +5,7 @@ Este repositório contém a análise dos dados de uma amostra de eleitores, com 
 Estrutura do Repositório
 
 data/: Contém os arquivos de dados utilizados na análise.
+
 notebooks/: Jupyter Notebooks com a análise detalhada.
 
 Perfil da Amostra
